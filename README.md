@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br><br/>
 
 <a href="https://github.com/barnit88">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=barnit88count_private=true&custom_title=My%20Current%20Stats&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&card_width=1800&layout=compact&hide=contribs,issues,prs&show_icons=true" alt="My current stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=barnit88&count_private=true&custom_title=My%20Current%20Stats&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&card_width=1800&layout=compact&hide=contribs,issues,prs&show_icons=true" alt="My current stats" />
 </a>
 
 <br/><br/>
