@@ -23,10 +23,15 @@ Here are some ideas to get you started:
 
 <br/><br/>
 <span>
-<a href="https://github.com/zaagan">
+<a href="https://github.com/barnit88">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barnit88&layout=compact&theme=radical&custom_title=What%20I%20play%20with%20these%20days&langs_count=10" alt="Langauages I use" />
 </a>
 </span>
 <span>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barnit88&theme=radical)
+
+<a href="https://github.com/barnit88">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=barnit88&theme=radical" alt="Langauages I use" />
+</a>
+
 </span>
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barnit88&theme=radical) -->
