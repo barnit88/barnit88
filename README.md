@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 
 <div>
 <a href="mailto:https://gmail.com/barnit.basnet1@gmail.com">
+    <p>
+    Reach me 
     <img width="16px"
-        src="https://raw.githubusercontent.com/barnit88/barnit88/main/assets/gmail-icon.png" 
-        alt="barnit.basnet1@gmail.com"/> 
-        <span text-decoration="none">Reach me<span>  barnit.basnet1@gmail.com
+    src="https://raw.githubusercontent.com/barnit88/barnit88/main/assets/gmail-icon.png" 
+    alt="barnit.basnet1@gmail.com" title="barnit.basnet1@gmail.com"/>  
+        barnit.basnet1@gmail.com
+        </p>
 </a>
 
 </div>
