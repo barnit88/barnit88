@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <br><br/>
 
 <a href="https://github.com/barnit88">
@@ -27,5 +26,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barnit88&layout=compact&theme=radical&custom_title=What%20I%20play%20with%20these%20days&langs_count=10" alt="Langauages I use" />
 </a>
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barnit88s  &theme=radical) -->
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barnit88&theme=radical) -->
 
