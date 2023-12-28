@@ -36,12 +36,12 @@ Here are some ideas to get you started:
 <br><br/>
 
 <a href="https://github.com/barnit88">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=barnit88&count_private=true&custom_title=My%20Current%20Stats&card_width=1800&layout=donut-vertical&hide=contribs,issues,prs&show_icons=true&theme=radical" alt="My current stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=barnit88&count_private=true&custom_title=My%20Current%20Stats&card_width=1800&layout=compact&hide=contribs,issues,prs&show_icons=true&theme=radical" alt="My current stats" />
 </a>
 
 <br/><br/>
 <span>
 <a href="https://github.com/barnit88">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barnit88&layout=compact&theme=radical&custom_title=What%20I%20play%20with%20these%20days&langs_count=30" alt="Langauages I use" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barnit88&layout=donut-vertical&theme=radical&custom_title=What%20I%20play%20with%20these%20days&langs_count=30" alt="Langauages I use" />
 </a>
 </span>
