@@ -95,21 +95,6 @@ Full-Stack Engineer with **6+ years** of progressive experience building enterpr
 
 ---
 
-## 🎓 Education & Credentials
-
-**Bachelor's in Computer Engineering**  
-Tribhuwan University, Nepal
-
----
-
-## 💬 Let's Connect
-
-I'm always interested in discussing:
-- 🏗️ Distributed systems and microservices architecture
-- ⚡ Performance optimization and scalability challenges
-- 🔧 Complex technical problems requiring creative solutions
-- 🚀 Opportunities to build impactful engineering solutions
-
 **Get in Touch:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/barnit-basnet-244a651a6/)
