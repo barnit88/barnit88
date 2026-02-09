@@ -96,3 +96,32 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest"/>
   <img src="https://skillicons.dev/icons?i=selenium&theme=light" height="40" alt="Selenium"/>
 </p>
+
+
+
+#### 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/barnit88">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barnit88&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Barnit's Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barnit88&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+</a>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=barnit88&theme=radical&hide_border=true)](https://github.com/barnit88)
+
+</div>
+
+---
+
+####💬 Let's Connect
+
+I'm passionate about discussing:
+- 🏗️ Distributed systems and microservices architecture
+- ⚡ Performance optimization and scalability patterns
+- 🔧 Complex technical problems requiring innovative solutions
+- 🚀 Building impactful engineering teams and solutions
