@@ -24,7 +24,7 @@
 </div>
 
 #### Languages and Tools:
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=cs&theme=light" height="40" alt="C#"/>
   <img src="https://skillicons.dev/icons?i=dotnet&theme=light" height="40" alt=".NET Core"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="ASP.NET Core"/>
@@ -32,15 +32,11 @@
   <img src="https://skillicons.dev/icons?i=express&theme=light" height="40" alt="Express.js"/>
   <img src="https://skillicons.dev/icons?i=python&theme=light" height="40" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=django&theme=light" height="40" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="Swagger"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" height="40" alt="Rails"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby"/>
   <img src="https://nunit.org/img/nunit_logo_128.png" height="40" alt="NUnit"/>
   <img src="https://avatars.githubusercontent.com/u/2092016?s=200&v=4" height="40" alt="Dapper"/>
   <img src="https://raw.githubusercontent.com/App-vNext/Polly/main/Polly-Logo.png" height="40" alt="Polly"/>
-</p>
-<p align="center">
   <img src="https://skillicons.dev/icons?i=react&theme=light" height="40" alt="React"/>
   <img src="https://skillicons.dev/icons?i=angular&theme=light" height="40" alt="Angular"/>
   <img src="https://skillicons.dev/icons?i=nextjs&theme=light" height="40" alt="Next.js"/>
@@ -57,12 +53,9 @@
   <img src="https://skillicons.dev/icons?i=redux&theme=light" height="40" alt="Redux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" height="40" alt="Chart.js"/>
   <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" height="40" alt="TanStack Table"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="ESLint"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="ESLint"/>
   <img src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" height="40" alt="Prettier"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest"/>
-</p>
-
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server"/>
   <img src="https://skillicons.dev/icons?i=postgres&theme=light" height="40" alt="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="40" alt="MySQL"/>
@@ -71,8 +64,6 @@
   <img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" height="40" alt="RabbitMQ"/>
   <img src="https://cdn.worldvectorlogo.com/logos/aws-sqs.svg" height="40" alt="AWS SQS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="Amazon RDS"/>
-</p>
-<p align="center">
   <img src="https://skillicons.dev/icons?i=aws&theme=light" height="40" alt="AWS"/>
   <img src="https://skillicons.dev/icons?i=azure&theme=light" height="40" alt="Azure"/>
   <img src="https://skillicons.dev/icons?i=docker&theme=light" height="40" alt="Docker"/>
@@ -83,10 +74,8 @@
   <img src="https://skillicons.dev/icons?i=powershell&theme=light" height="40" alt="PowerShell"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="40" alt="Azure DevOps"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/aws-api-gateway.svg" height="40" alt="API Gateway"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/teamcity.svg" height="40" alt="TeamCity"/>
-</p>
-<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-api-gateway.svg" height="40" alt="API Gateway"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/teamcity.svg" height="40" alt="TeamCity"/>
   <img src="https://skillicons.dev/icons?i=prometheus&theme=light" height="40" alt="Prometheus"/>
   <img src="https://skillicons.dev/icons?i=grafana&theme=light" height="40" alt="Grafana"/>
   <img src="https://skillicons.dev/icons?i=elasticsearch&theme=light" height="40" alt="Elasticsearch"/>
@@ -99,29 +88,10 @@
 
 
 
-#### 📊 GitHub Stats
+#### GitHub Stats
 
-<div align="center">
-
-<a href="https://github.com/barnit88">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barnit88&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Barnit's Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barnit88&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-</a>
-
-</div>
-
-<div align="center">
+<div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=barnit88&theme=radical&hide_border=true)](https://github.com/barnit88)
 
 </div>
-
----
-
-####💬 Let's Connect
-
-I'm passionate about discussing:
-- 🏗️ Distributed systems and microservices architecture
-- ⚡ Performance optimization and scalability patterns
-- 🔧 Complex technical problems requiring innovative solutions
-- 🚀 Building impactful engineering teams and solutions
