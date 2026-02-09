@@ -1,111 +1,98 @@
 <div align="center">
   
-# 👋 Hi, I'm Barnit Basnet
+## Hi, I'm Barnit Basnet
 
-### Senior Full-Stack Engineer 
+### Senior Full Stack Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barnit-basnet-244a651a6/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barnit.basnet1@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Nepal-FF0000?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Itahari)
+<a href="https://linkedin.com/in/barnit-basnet-244a651a6">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="mailto:barnit.basnet1@gmail.com">
+  <img src="https://www.svgrepo.com/show/452213/gmail.svg" height="30" alt="Email"/>
+</a>&nbsp;
+<a href="https://stackoverflow.com/users/9851400/barnit-basnet">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="30" alt="Stack Overflow"/>
+</a>&nbsp;
+<a href="https://twitter.com/BarnitBasnet">
+  <img src="https://www.svgrepo.com/show/475689/twitter-color.svg" height="30" alt="Twitter"/>
+</a>
 
-</div>
+📍 Nepal (GMT+5:45) • 💼 Remote • 🌏 APAC · EU · US East
 
----
-
-## 🚀 About Me
-
-Full-Stack Engineer with **6+ years** of progressive experience building enterprise-grade solutions across **fintech, healthcare, and distributed systems**. I specialize in architecting scalable platforms that solve complex business problems — from reducing month-long workloads to under a day for enterprise clients like **Walmart**, to building high-availability payment systems processing real-time financial transactions.
-
-**What drives me:**
-- 🏗️ **Architecture & Scale** — Designing microservices, event-driven systems, and distributed platforms
-- ⚡ **Performance** — Reducing latency, optimizing queries, and building high-throughput pipelines
-- 🔧 **Problem Solving** — Tackling complex technical challenges from binary file parsing to real-time orchestration
-- 📈 **Impact** — Delivering measurable business value through elegant technical solutions
-
-
-
-## 🛠️ Technical Arsenal
-
-### **Backend & Architecture**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-**Expertise:** Microservices • CQRS • Clean Architecture • Event-Driven Design • Circuit Breakers • Async/Await • Multithreading • REST APIs • WebSockets • OAuth2 • JWT
-
-### **Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**Expertise:** SPA Architecture • Code Splitting • Lazy Loading • Browser Caching • State Management • Component Design
-
-### **Data & Messaging**
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-**Expertise:** Query Optimization • Indexing • Caching • Sharding • Message Queues • Event Streaming
-
-### **Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**AWS Services:** EC2 • S3 • RDS • SQS • SES • CloudWatch  
-**DevOps:** CI/CD • TeamCity • Azure DevOps • IIS
-
-### **Observability & Testing**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-**Expertise:** Unit Testing • Integration Testing • ELK Stack • Structured Logging • Metrics • Code Coverage
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barnit88&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barnit88&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=barnit88&theme=radical&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=barnit88&color=0e75b6&style=flat)
 
 </div>
 
----
+#### Languages and Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs&theme=light" height="40" alt="C#"/>
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=light" height="40" alt=".NET Core"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="ASP.NET Core"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="40" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express&theme=light" height="40" alt="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=light" height="40" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=django&theme=light" height="40" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="Swagger"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" height="40" alt="Rails"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby"/>
+  <img src="https://nunit.org/img/nunit_logo_128.png" height="40" alt="NUnit"/>
+  <img src="https://avatars.githubusercontent.com/u/2092016?s=200&v=4" height="40" alt="Dapper"/>
+  <img src="https://raw.githubusercontent.com/App-vNext/Polly/main/Polly-Logo.png" height="40" alt="Polly"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react&theme=light" height="40" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=angular&theme=light" height="40" alt="Angular"/>
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=light" height="40" alt="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=ts&theme=light" height="40" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=js&theme=light" height="40" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=html&theme=light" height="40" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=light" height="40" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=webpack&theme=light" height="40" alt="Webpack"/>
+  <img src="https://skillicons.dev/icons?i=vite&theme=light" height="40" alt="Vite"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" height="40" alt="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=sass&theme=light" height="40" alt="Sass"/>
+  <img src="https://skillicons.dev/icons?i=materialui&theme=light" height="40" alt="Material-UI"/>
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=light" height="40" alt="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=redux&theme=light" height="40" alt="Redux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" height="40" alt="Chart.js"/>
+  <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" height="40" alt="TanStack Table"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="ESLint"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" height="40" alt="Prettier"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest"/>
+</p>
 
-**Get in Touch:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/barnit-basnet-244a651a6/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:barnit.basnet1@gmail.com)
-
----
-
-<div align="center">
-
-### ⭐ *"Code is poetry written in logic"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=barnit88&color=blueviolet&style=for-the-badge)
-
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server"/>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=light" height="40" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="40" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" height="40" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=redis&theme=light" height="40" alt="Redis"/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" height="40" alt="RabbitMQ"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-sqs.svg" height="40" alt="AWS SQS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="Amazon RDS"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws&theme=light" height="40" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=azure&theme=light" height="40" alt="Azure"/>
+  <img src="https://skillicons.dev/icons?i=docker&theme=light" height="40" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=light" height="40" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=light" height="40" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=gitlab&theme=light" height="40" alt="GitLab"/>
+  <img src="https://skillicons.dev/icons?i=nginx&theme=light" height="40" alt="Nginx"/>
+  <img src="https://skillicons.dev/icons?i=powershell&theme=light" height="40" alt="PowerShell"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="40" alt="Azure DevOps"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/aws-api-gateway.svg" height="40" alt="API Gateway"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/teamcity.svg" height="40" alt="TeamCity"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus&theme=light" height="40" alt="Prometheus"/>
+  <img src="https://skillicons.dev/icons?i=grafana&theme=light" height="40" alt="Grafana"/>
+  <img src="https://skillicons.dev/icons?i=elasticsearch&theme=light" height="40" alt="Elasticsearch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="40" alt="Kibana"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/logstash/logstash-original.svg" height="40" alt="Logstash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="ESLint"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest"/>
+  <img src="https://skillicons.dev/icons?i=selenium&theme=light" height="40" alt="Selenium"/>
+</p>
