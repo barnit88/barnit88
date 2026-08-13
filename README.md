@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Barnit Basnet
+# Hi, I'm Barnit Basnet
 ### Senior Full Stack Developer 
-📍 **Nepal (GMT+5:45)** • 💼 **Remote** • 🌏 **APAC · EU · US Teams**
+**Nepal (GMT+5:45)** • **Remote** • **APAC · EU · US Teams**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=barnit88&color=0e75b6&style=flat)](https://github.com/barnit88)
 
-### 🤝 Lets Connect
+### Lets Connect
 
 <a href="https://linkedin.com/in/barnit-basnet-244a651a6"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/></a>&nbsp;
 <a href="mailto:barnit.basnet1@gmail.com"><img src="https://www.svgrepo.com/show/452213/gmail.svg" height="30" alt="Email"/></a>&nbsp;
@@ -16,10 +16,10 @@
 </div>
 
 
-### 🚀 Summary
+### Summary
 I am a Senior Full-Stack Developer with **6+ years** of experience dedicated to building high-availability solutions in **Fintech, Healthcare, and Enterprise Data**. I enjoy the challenge of bridging complex backend distributed logic with performant, modern frontend architectures. Most recently, I had the opportunity to architect a data processing platform that orchestrates multiple VMs to streamline distributed workloads for enterprise-scale requirements.
 
-### 🛠️ Technical Ecosystem
+### Technical Ecosystem
 **Backend**
 <p>
   <img src="https://skillicons.dev/icons?i=cs&theme=light" height="40" alt="C#"/>
@@ -103,11 +103,11 @@ I am a Senior Full-Stack Developer with **6+ years** of experience dedicated to 
 </p>
 
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <div >
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=barnit88&theme=radical&hide_border=true)](https://github.com/barnit88)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=barnit88&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
