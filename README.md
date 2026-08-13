@@ -107,7 +107,7 @@ I am a Senior Full-Stack Developer with **6+ years** of experience dedicated to 
 
 <div >
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=barnit88&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=barnit88&hide_border=true&border_radius=11.9&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
